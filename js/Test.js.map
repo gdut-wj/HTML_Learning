@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACH,UAAU,EAAC,GAAG;EACd,OAAO,EAAC,YAAY;EACpB,OAAO,EAAC,IAAI;EACZ,KAAK,EAAC,IAAI;EACV,MAAM,EAAC,MAAM;;AAGb,iBAAI;EACH,UAAU,EAAC,KAAK;;AAKhB,wBAAO;EACN,OAAO,EAAC,QAAQ;EAChB,WAAW,EAAC,IAAI",
+"sources": ["../sass/sass.scss"],
+"names": [],
+"file": "Test.js"
+}

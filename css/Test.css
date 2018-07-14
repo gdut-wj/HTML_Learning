@@ -1,0 +1,9 @@
+.nav.navbar-nav{
+	border-right: 1px solid #eee;
+}
+.col-md-10>.tab-content{
+	margin-top: 15px;
+}
+.searchType{
+	margin: 10px auto;
+}
